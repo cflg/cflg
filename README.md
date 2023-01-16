@@ -1,17 +1,25 @@
 <div align="center">
 <img src="https://i.imgur.com/x2DSTHu.gif" align="center" style="width: 100%" />
-</div>  
-  
+</div>
+<br><br><br>
 
-### <div align="center">Hola, soy Cristian y soy Full-Stack Web Developer. 🚀</div>  
-  
+# <div align="center">👋Soy Cristian, un Full Stack Developer💻 con experiencia en negocios. En 2020, fundé mi propio negocio de venta de artículos de limpieza, el cual contaba con venta online y envío a domicilio. En 2022, vendí mi parte del negocio y decidí buscar un sector más desafiante. 🚀
 
-- Actualmente estoy trabajando en un proyecto de e-commerce para una empresa de impresion 3D.  
-  
+🛠️Mis habilidades técnicas incluyen JavaScript, HTML, CSS, React, Redux, Node.js, Express, PostgreSQL, Sequelize y SCRUM. Además, poseo habilidades blandas como una actitud positiva, aprendizaje ágil, automotivación, autonomía, colaboración, cooperación, curiosidad, dedicación, flexibilidad, mente abierta y resiliencia.
 
-<br/>  
+⚡En mi último proyecto, Emme 3D, diseñé y desarrollé un e-commerce para un negocio de impresión 3D en un equipo de 8 personas. Actualmente estoy trabajando en otro proyecto e-commerce para un negocio de artículos de limpieza, el cual incluirá características como login y login de terceros, pasarela de pagos con mercadopago y un dashboard del admin con estadísticas del negocio.
 
+👉Mi experiencia profesional incluye haber sido Cofundador de CRIMAR, donde me encargué de atender al público, propuse fabricar nuestros propios productos, tomé un curso y gestioné las ganancias para poder seguir creciendo.
 
+📲Si estás interesado en saber más sobre mi experiencia y habilidades, no dudes en enviarme un correo electrónico a 📩cflg.dev@gmail.com. También puedes seguirme en ⚙️github.com/cflg o 🐤twitter.com/CFLG\_ para estar al día con mis proyectos e intereses.</div>
+<br><br><br>
+
+<div align="center" style="display: flex; flex-direction: row;">
+<div align="center">
+<img src="https://i.imgur.com/61RQsox.gif" align="center" style="width: 50%" />
+</div>
+
+<div>
 <h3>Estas son las tecnologías que uso:</h3>
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow" />
@@ -33,11 +41,63 @@
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 </p>
+</div>
+</div>
+<br><br><br>
 
-<br/>  
+<div align="center" style="display: flex; flex-direction: row;">
+<div>
+# Mis proyectos:
 
+## CRIMAR:
 
-## Connect with me  
+### Este es un proyecto en el que estoy trabajando actualmente. Es una tienda en línea para un negocio de venta de artículos para el hogar.
+
+### En el backend estoy usando Node, Express, Sequelize, PostgreSQL.
+
+### En el frontend estoy usando React + Vite, Redux.
+
+## Emme 3D:
+
+### Trabajé en este proyecto desde diciembre del 2022 hasta enero del 2023.
+
+### Es una tienda en línea para una empresa de impresión 3D. Contruida con Node, Express, Mongoose, MongoDB, React, Redux, entre otras tecnologías.
+
+### Las características de este proyecto son:
+
+- #### Pasarela de pago con MercadoPago.
+- #### Login propio y de terceros con Google.
+- #### Carrito.
+- #### Borrado lógico de productos.
+- #### Dashboard admin.
+- #### Panel de usuario.
+- #### Carrusel de imágenes.
+- #### Subida de imágenes con Cloudinary.
+- #### Envío de correos electrónicos.
+
+### Mis aportes para este proyecto fueron:
+
+- #### Propuse crear un carrusel de imágenes para aumentar las ventas de los productos e impulsar descuentos y promociones.
+- #### Creé un carrusel de imágenes e implemeté los formularios para agregar imágenes y eliminarlas.
+- #### Creé la página del panel de usuario e implementé las funciones para editar la información, subir una imágen de perfil con Cloudinary y mostrar las compras realizadas.
+- #### Popuse cambios en el carrito para mostrar el precio total para las unidades seleccionadas y el total de todos los productos en el botón de compra. Implementé esos cambios.
+- #### Creé el formulario controlado para crear productos, con la funcionalidad de subir imágenes a Cloudinary.
+- #### Creé el formulario para crear categorías.
+- #### Creé el componente de animación de carga para ser importado donde sea necesario.
+- #### Creé la página 404.
+- #### Hice el deploy del back en Railway y del front en Render.
+- #### También diferentes cambios como la función de agregar la cantidad de unidades a comprar en el detalle del producto, entre otros.
+</div>
+
+<div align="center">
+<img src="https://i.imgur.com/ETLfrTR.gif" align="center" style="width: 50%" />
+</div>
+</div>
+
+<br/>
+
+## Si querés saber más sobre mi experiencia y habilidades podés ponerte en contacto conmigo:
+
 <div align="center">
 <a href="https://github.com/cflg" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -45,36 +105,10 @@
 <a href="https://linkedin.com/in/cristian-lg" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
+</div>
 
-<br/>  
+<br/>
 
+## Github Stats
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cflg&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=cflg&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cflg&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
