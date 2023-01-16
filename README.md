@@ -14,7 +14,7 @@
 📲Si estás interesado en saber más sobre mi experiencia y habilidades, no dudes en enviarme un correo electrónico a 📩cflg.dev@gmail.com. También puedes seguirme en ⚙️github.com/cflg o 🐤twitter.com/CFLG\_ para estar al día con mis proyectos e intereses.</div>
 <br><br><br>
 
-<div align="center" style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row;">
 <div align="center">
 <img src="https://i.imgur.com/61RQsox.gif" align="center" style="width: 50%" />
 </div>
@@ -45,8 +45,9 @@
 </div>
 <br><br><br>
 
-<div align="center" style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row;">
 <div>
+
 # Mis proyectos:
 
 ## CRIMAR:
@@ -112,3 +113,4 @@
 ## Github Stats
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cflg&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
