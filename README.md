@@ -53,14 +53,6 @@
 
 # Mis proyectos:
 
-## CRIMAR:
-
-### Este es un proyecto en el que estoy trabajando actualmente. Es una tienda en línea para un negocio de venta de artículos para el hogar.
-
-### En el backend estoy usando Node, Express, Sequelize, PostgreSQL.
-
-### En el frontend estoy usando React + Vite, Redux.
-
 ## Emme 3D:
 
 ### Trabajé en este proyecto desde diciembre del 2022 hasta enero del 2023.
