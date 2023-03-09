@@ -3,14 +3,14 @@
 </div>
 <br><br><br>
 
-# <div align="center">👋 ¡Hola! Soy un Full Stack Developer con experiencia en el mundo empresarial. En 2020, fundé y dirigí un negocio de venta de artículos de limpieza con venta online y envío a domicilio, el cual creció rápidamente y requirió la contratación de personal adicional. Sin embargo, mi verdadera pasión siempre ha sido el desarrollo de software, por lo que en 2022 decidí vender mi parte del negocio y enfocarme en mi carrera como desarrollador.
+## 👋 ¡Hola! Soy un Full Stack Developer con experiencia en el mundo empresarial. En 2020, fundé y dirigí un negocio de venta de artículos de limpieza con venta online y envío a domicilio, el cual creció rápidamente y requirió la contratación de personal adicional. Sin embargo, mi verdadera pasión siempre ha sido el desarrollo de software, por lo que en 2022 decidí vender mi parte del negocio y enfocarme en mi carrera como desarrollador.
 
-# Además de mi experiencia empresarial, también tengo una formación académica en Lengua y Literatura, lo que me ha enseñado la importancia de la comunicación clara y efectiva en cualquier campo. Me considero un agente de cambio y mi propósito es utilizar la tecnología para mejorar la realidad colectiva y empoderar a las personas.
+## Además de mi experiencia empresarial, también tengo una formación académica en Lengua y Literatura, lo que me ha enseñado la importancia de la comunicación clara y efectiva en cualquier campo. Me considero un agente de cambio y mi propósito es utilizar la tecnología para mejorar la realidad colectiva y empoderar a las personas.
 
-# Si necesitas un desarrollador comprometido y apasionado, no dudes en contactarme. ¡Estoy listo para ayudarte a hacer realidad tus ideas!
+## Si necesitas un desarrollador comprometido y apasionado, no dudes en contactarme. ¡Estoy listo para ayudarte a hacer realidad tus ideas!
 
-# Mi correo electrónico: 📩 cflg.dev@gmail.com
-# Mi Portafolio: 🌐 https://www.cflg.dev/</div>
+### Mi correo electrónico: 📩 cflg.dev@gmail.com
+### Mi Portafolio: 🌐 https://www.cflg.dev/
 <br><br><br>
 
 <br><br><br>
