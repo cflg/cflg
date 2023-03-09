@@ -3,18 +3,15 @@
 </div>
 <br><br><br>
 
-# <div align="center">👋Soy Cristian, un Full Stack Developer💻 con experiencia en negocios. En 2020, fundé mi propio negocio de venta de artículos de limpieza, el cual contaba con venta online y envío a domicilio. En 2022, vendí mi parte del negocio y decidí buscar un sector más desafiante. 🚀
+# <div align="center">👋 ¡Hola! Soy un Full Stack Developer con experiencia en el mundo empresarial. En 2020, fundé y dirigí un negocio de venta de artículos de limpieza con venta online y envío a domicilio, el cual creció rápidamente y requirió la contratación de personal adicional. Sin embargo, mi verdadera pasión siempre ha sido el desarrollo de software, por lo que en 2022 decidí vender mi parte del negocio y enfocarme en mi carrera como desarrollador.
 
-🛠️Mis habilidades técnicas incluyen JavaScript, HTML, CSS, React, Redux, Node.js, Express, PostgreSQL, Sequelize y SCRUM. Además, poseo habilidades blandas como una actitud positiva, aprendizaje ágil, automotivación, autonomía, colaboración, cooperación, curiosidad, dedicación, flexibilidad, mente abierta y resiliencia.
+# Además de mi experiencia empresarial, también tengo una formación académica en Lengua y Literatura, lo que me ha enseñado la importancia de la comunicación clara y efectiva en cualquier campo. Me considero un agente de cambio y mi propósito es utilizar la tecnología para mejorar la realidad colectiva y empoderar a las personas.
 
-⚡En mi último proyecto, Emme 3D, diseñé y desarrollé un e-commerce para un negocio de impresión 3D en un equipo de 8 personas. Actualmente estoy trabajando en otro proyecto e-commerce para un negocio de artículos de limpieza, el cual incluirá características como login y login de terceros, pasarela de pagos con mercadopago y un dashboard del admin con estadísticas del negocio.
+# Si necesitas un desarrollador comprometido y apasionado, no dudes en contactarme. ¡Estoy listo para ayudarte a hacer realidad tus ideas!
 
-👉Mi experiencia profesional incluye haber sido Cofundador de CRIMAR, donde me encargué de atender al público, propuse fabricar nuestros propios productos, tomé un curso y gestioné las ganancias para poder seguir creciendo.
-
-📲Si estás interesado en saber más sobre mi experiencia y habilidades, no dudes en enviarme un correo electrónico a 📩cflg.dev@gmail.com. También puedes seguirme en ⚙️github.com/cflg o 🐤twitter.com/CFLG\_ para estar al día con mis proyectos e intereses.</div>
+# Mi correo electrónico: 📩 cflg.dev@gmail.com
+# Mi Portafolio: 🌐 https://www.cflg.dev/</div>
 <br><br><br>
-
-# [También podés ver mi portfolio](https://www.cflg.dev/)
 
 <br><br><br>
 <div style="display: flex; flex-direction: row;">
