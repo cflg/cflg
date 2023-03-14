@@ -7,7 +7,7 @@
 
 ## Además de mi experiencia empresarial, también tengo una formación académica en Lengua y Literatura, lo que me ha enseñado la importancia de la comunicación clara y efectiva en cualquier campo. Me considero un agente de cambio y mi propósito es utilizar la tecnología para mejorar la realidad colectiva y empoderar a las personas.
 
-## Si necesitas un desarrollador comprometido y apasionado, no dudes en contactarme. ¡Estoy listo para ayudarte a hacer realidad tus ideas!
+## Si necesitas un desarrollador comprometido y apasionado, no dudes en contactarme. ¡Estoy listo para ayudarte a llevar tus ideas al siguiente nivel!
 
 ### Mi correo electrónico: 📩 cflg.dev@gmail.com
 ### Mi Portafolio: 🌐 https://www.cflg.dev/
