@@ -48,40 +48,6 @@
 <div style="display: flex; flex-direction: row;">
 <div>
 
-# Mis proyectos:
-
-## Emme 3D:
-
-### Trabajé en este proyecto desde diciembre del 2022 hasta enero del 2023.
-
-### Es una tienda en línea para una empresa de impresión 3D. Contruida con Node, Express, Mongoose, MongoDB, React, Redux, entre otras tecnologías.
-
-### Las características de este proyecto son:
-
-- #### Pasarela de pago con MercadoPago.
-- #### Login propio y de terceros con Google.
-- #### Carrito.
-- #### Borrado lógico de productos.
-- #### Dashboard admin.
-- #### Panel de usuario.
-- #### Carrusel de imágenes.
-- #### Subida de imágenes con Cloudinary.
-- #### Envío de correos electrónicos.
-
-### Mis aportes para este proyecto fueron:
-
-- #### Propuse crear un carrusel de imágenes para aumentar las ventas de los productos e impulsar descuentos y promociones.
-- #### Creé un carrusel de imágenes e implemeté los formularios para agregar imágenes y eliminarlas.
-- #### Creé la página del panel de usuario e implementé las funciones para editar la información, subir una imágen de perfil con Cloudinary y mostrar las compras realizadas.
-- #### Popuse cambios en el carrito para mostrar el precio total para las unidades seleccionadas y el total de todos los productos en el botón de compra. Implementé esos cambios.
-- #### Creé el formulario controlado para crear productos, con la funcionalidad de subir imágenes a Cloudinary.
-- #### Creé el formulario para crear categorías.
-- #### Creé el componente de animación de carga para ser importado donde sea necesario.
-- #### Creé la página 404.
-- #### Hice el deploy del back en Railway y del front en Render.
-- #### También diferentes cambios como la función de agregar la cantidad de unidades a comprar en el detalle del producto, entre otros.
-</div>
-
 <div align="center">
 <img src="https://i.imgur.com/ETLfrTR.gif" align="center" style="width: 50%" />
 </div>
