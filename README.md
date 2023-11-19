@@ -3,12 +3,12 @@
 </div>
 <br><br><br>
 
-## 👋 ¡Hola! Soy un Full Stack Developer Node / Angular
+## 👋 Hi! I'm a Full Stack Developer Node / Angular-React
 
-## Si necesitas un desarrollador comprometido y apasionado, no dudes en contactarme. ¡Estoy listo para ayudarte a llevar tus ideas al siguiente nivel!
+## If you need a committed and passionate developer, you can contact me. I'm ready to help you take your ideas to the next level!
 
-### Mi correo electrónico: 📩 cflg.dev@gmail.com
-### Mi Portafolio: 🌐 https://www.cflg.dev/
+### My email: 📩 cflg.dev@gmail.com
+### Mi portfolio: 🌐 https://www.cflg.dev/
 <br><br><br>
 
 
