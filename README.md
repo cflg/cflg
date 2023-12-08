@@ -3,12 +3,23 @@
 </div>
 <br><br><br>
 
-## 👋 Hi! I'm a Full Stack Developer Node / Angular-React
+## 👋 ¡Hola! Soy Full Stack Developer y trabajo con tecnologías como JavaScript, TypeScript, React, Angular, Node, Express, PostgreSQL, MongoDB y SQL.
 
-## If you need a committed and passionate developer, you can contact me. I'm ready to help you take your ideas to the next level!
+### Actualmente trabajo como Analista Desarrollador web Full Stack para una empresa de la industria de la salud y curso una Tecnicatura Superior en Desarrollo de Software.
 
-### My email: 📩 cflg.dev@gmail.com
+### Si necesitas un desarrollador comprometido y apasionado, no dudes en contactarme!
+
 ### Mi portfolio: 🌐 https://www.cflg.dev/
+### Mi Web: 🌐 www.cflg.dev/
+
+## 🌎 Mi nivel de idiomas:
+
+### 🇦🇷 Español => Nativo
+### 🇬🇧 Ingles => Intermedio
+### 🇧🇷 Portugués => Intermedio
+
+### 🐱‍💻 Mi HackerRank: https://www.hackerrank.com/profile/cflg_dev
+
 <br><br><br>
 
 
