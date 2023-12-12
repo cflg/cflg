@@ -9,7 +9,6 @@
 
 ### Si necesitas un desarrollador comprometido y apasionado, no dudes en contactarme!
 
-### Mi portfolio: 🌐 https://www.cflg.dev/
 ### Mi Web: 🌐 www.cflg.dev/
 
 ## 🌎 Mi nivel de idiomas:
