@@ -3,21 +3,25 @@
 </div>
 <br><br><br>
 
-## 👋 ¡Hola! Soy Full Stack Developer y trabajo con tecnologías como JavaScript, TypeScript, React, Angular, Node, Express, PostgreSQL, MongoDB y SQL.
-
-### Actualmente trabajo como Analista Desarrollador web Full Stack para una empresa de la industria de la salud y curso una Tecnicatura Superior en Desarrollo de Software.
-
-### Si necesitas un desarrollador comprometido y apasionado, no dudes en contactarme!
-
-### Mi Web: 🌐 www.cflg.dev/
-
-## 🌎 Mi nivel de idiomas:
-
-### 🇦🇷 Español => Nativo
-### 🇬🇧 Ingles => Intermedio
-### 🇧🇷 Portugués => Intermedio
-
-### 🐱‍💻 Mi HackerRank: https://www.hackerrank.com/profile/cflg_dev
+## 👋 ¡Hola! Soy un desarrollador web con experiencia en grupos de desarrollo en proyectos Full-Stack usando tecnologias como:
+* HTML
+* CSS
+* JavaScript
+* TypeScript
+* Node
+* NestJs
+* Express
+* Prisma ORM
+* Sequelize ORM
+* PostgreSQL
+* MongoDB
+* Oracle DataBase
+* SQL
+* PL/SQL
+* React
+* NextJs
+* Angular
+* Figma
 
 <br><br><br>
 
