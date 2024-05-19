@@ -3,27 +3,15 @@
 </div>
 <br><br><br>
 
-## 👋 ¡Hola! Soy un desarrollador web Full-Stack con preferencia hacia el Frontend.
-## Tengo experiencia en proyectos de migración y renovación tecnológica, toma de decisiones e implementación de soluciones.
-## Algunas de mis competencias técnicas son:
-* HTML
-* CSS
-* JavaScript
-* TypeScript
-* Node
-* NestJs
-* Express
-* Prisma ORM
-* Sequelize ORM
-* PostgreSQL
-* MongoDB
-* Oracle DataBase
-* SQL
-* PL/SQL
-* React
-* NextJs
-* Angular
-* Figma
+## 👋 ¡Hola! Soy un desarrollador web Full-Stack con un enfoque particular en el Frontend y experiencia en proyectos de migración y renovación tecnológica. Me enfoco en entender las reglas de negocio para poder ofrecer las mejores soluciones.
+
+## *** Mis competencias técnicas: ***
+### Frontend: HTML, CSS, JavaScript, TypeScript, React, Next.js, Angular
+### Backend: Node.js, NestJS, Express, Prisma ORM, Sequelize ORM
+### Bases de datos: PostgreSQL, MongoDB, Oracle Database, SQL, PL/SQL
+### Herramientas de diseño: Figma
+
+Además, tengo un gran interés en la inteligencia artificial y la robótica, lo que me mantiene en constante aprendizaje y exploración de nuevas tecnologías.
 
 <br><br><br>
 
