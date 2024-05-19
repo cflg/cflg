@@ -4,7 +4,7 @@
 <br><br><br>
 
 ## 👋 ¡Hola! Soy un desarrollador web Full-Stack con preferencia hacia el Frontend.
-## Tengo experiencia en proyectos de migración y renovación tecnológica, reuniones con los stakeholders, toma de decisiones e implementación de soluciones.
+## Tengo experiencia en proyectos de migración y renovación tecnológica, toma de decisiones e implementación de soluciones.
 ## Algunas de mis competencias técnicas son:
 * HTML
 * CSS
