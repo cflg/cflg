@@ -5,8 +5,8 @@
 
 ## 👋 Hello! I'm a FullStack web developer with several years of experience in both backend and frontend projects. I'm currently expanding my expertise in artificial intelligence and data science. For over a year, I've been working remotely for a company, honing strong teamwork skills and fostering effective collaboration with my colleagues.
 
-## **Mis competencias técnicas:**
-### **Lenguajes:**
+## **My Skills:**
+### **Languages:**
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![PL-SQL](https://img.shields.io/badge/PL--SQL-336791?style=flat-square&logo=oracle&logoColor=white)](https://docs.oracle.com/en/database/oracle/oracle-database/21/adfns/plsql-overview.html)
@@ -38,6 +38,10 @@
 ### **UX/UI:**
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
 
+### **Project Management:**
+[![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white)](https://trello.com/)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)](https://slack.com/)
 
 ### I am currently undertaking studies in Artificial Intelligence and Data Science.
 
