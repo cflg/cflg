@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://i.imgur.com/dapvzD0.jpg" align="center" style="width: 100%" />
+<img src="https://codecollege.co.za/blog/how-to-become-a-software-engineer/img/software-engineering.jpg" align="center" style="width: 100%" />
 </div>
-<br><br><br>
+<br>
 
-## 👋 ¡Hola! Soy un desarrollador web Full-Stack con un enfoque particular en el Frontend y experiencia en proyectos de migración y renovación tecnológica. Me enfoco en entender las reglas de negocio para poder ofrecer las mejores soluciones.
+## 👋 Hello! I'm a FullStack web developer with several years of experience in both backend and frontend projects. I'm currently expanding my expertise in artificial intelligence and data science. For over a year, I've been working remotely for a company, honing strong teamwork skills and fostering effective collaboration with my colleagues.
 
 ## **Mis competencias técnicas:**
 ### **Lenguajes:**
@@ -39,18 +39,46 @@
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
 
 
-Actualmente curso una tecnicatura en Inteligencia Artificial y Ciencia de Datos.
+### I am currently undertaking studies in Artificial Intelligence and Data Science.
 
-<br><br><br>
-
+<br>
+<div align="center">
+<img src="https://www.future-processing.com/blog/wp-content/uploads/2023/02/Importance-of-data-science.png" align="center" style="width: 100%" />
+</div>
+<br>
 
 ## Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cflg&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cflg&layout=compact&theme=dark" alt="Top Langs">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cflg&show_icons=true&theme=dark" alt="Anurag's GitHub stats">
+</p>
 
-
+<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cflg&show_icons=true&theme=dark)
+merko
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cflg&show_icons=true&theme=merko)
+gruvbox
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cflg&show_icons=true&theme=gruvbox)
+tokyonight
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cflg&show_icons=true&theme=tokyonight)
+onedark
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cflg&show_icons=true&theme=onedark)
+cobalt
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cflg&show_icons=true&theme=cobalt)
+synthwave
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cflg&show_icons=true&theme=synthwave)
+highcontrast
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cflg&show_icons=true&theme=highcontrast)
+dracula
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cflg&show_icons=true&theme=dracula)
+-->
 <br><br><br>
+## Contact me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-lg/)
 
 <div align="center">
-<img src="https://i.imgur.com/x2DSTHu.gif" align="center" style="width: 100%" />
+<img src="https://www.cfainstitute.org/-/media/images/hero/a-data-scientist-at-work-providing-analytics-and-insights-to-investment-professionals2.jpg" align="center" style="width: 100%" />
 </div>
