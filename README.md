@@ -25,7 +25,7 @@
 [![OracleDB](https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-4285F4?style=flat-square&logo=google&logoColor=white)](https://oauth.net/2/)
-[![Nodemailer](https://img.shields.io/badge/Nodemailer-3B8F41?style=flat-square&logo=nodemailer&logoColor=white)](https://nodemailer.com/)
+[![Nodemailer](https://img.shields.io/badge/Nodemailer-3B8F41?style=flat-square&logo=maildotru&logoColor=white)](https://nodemailer.com/)
 
 ### **Frontend:**
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
