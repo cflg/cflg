@@ -26,6 +26,8 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-4285F4?style=flat-square&logo=google&logoColor=white)](https://oauth.net/2/)
 [![Nodemailer](https://img.shields.io/badge/Nodemailer-3B8F41?style=flat-square&logo=maildotru&logoColor=white)](https://nodemailer.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)](https://insomnia.rest/)
 
 ### **Frontend:**
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
