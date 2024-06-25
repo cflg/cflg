@@ -10,7 +10,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![PL-SQL](https://img.shields.io/badge/PL--SQL-336791?style=flat-square&logo=oracle&logoColor=white)](https://docs.oracle.com/en/database/oracle/oracle-database/21/adfns/plsql-overview.html)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)](https://www.w3schools.com/sql/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
 ### **Backend:**
@@ -32,7 +32,7 @@
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
 [![Next](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![Reflex](https://img.shields.io/badge/Reflex-000000?style=flat-square&logo=react&logoColor=white)](https://github.com/lelandrichardson/reflex)
+[![Reflex](https://img.shields.io/badge/Reflex-000000?style=flat-square&logo=reflex&logoColor=white)](https://reflex.dev/)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.io/)
 
 ### **UX/UI:**
