@@ -5,6 +5,11 @@
 
 ## 👋 Hello! I'm a FullStack web developer with several years of experience in both backend and frontend projects. I'm currently expanding my expertise in artificial intelligence and data science. For over a year, I've been working remotely for a company, honing strong teamwork skills and fostering effective collaboration with my colleagues.
 
+## **My Experience:**
+
+### Heath Management Solutions, ***Analyst Developer***
+#### 2023, I actually working there.
+
 ## **My Skills:**
 ### **Languages:**
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
