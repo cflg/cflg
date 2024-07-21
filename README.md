@@ -10,6 +10,19 @@
 ### Heath Management Solutions, ***Analyst Developer***
 #### 2023, I actually working there.
 
+Analyst Developer in an agile team comprised of 2 juniors, 2 mid-level developers, 1 senior developer, 1 product owner, and 1 product manager.
+
+Currently, I am working on a technology renewal project, migrating systems from Oracle Forms to Oracle APEX. Although both are Oracle technologies, APEX is entirely different from Forms.
+
+My responsibilities include:
+
+- ⚡ Developing new migrations based on stakeholder requirements.
+- ⚡ Submitting products for testing after team approval and resolving issues until they meet client specifications.
+- ⚡ Collaborating with the team to solve complex problems, define work standards, and use pair programming techniques in meetings.
+- ⚡ Seeking solutions to common problems and documenting them for the team.
+
+To perform these tasks, I use Oracle APEX as my primary development environment, utilizing JavaScript, PL/SQL, and SQL. Additionally, I use tools such as VPNs, virtual machines, Oracle Designer, TOAD, and SQL Developer to interact with and better understand the data model.
+
 ## **My Skills:**
 ### **Languages:**
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
