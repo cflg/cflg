@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://codecollege.co.za/blog/how-to-become-a-software-engineer/img/software-engineering.jpg" align="center" style="width: 50%" />
+<img src="https://imgur.com/ZOkz6ZM" align="center" style="width: 50%" />
 </div>
 <br>
 
