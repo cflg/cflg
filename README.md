@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://i.imgur.com/ZOkz6ZM.jpeg" align="center" style="width: 50%" />
-</div>
-<br>
 
 ## 👋 Hello! I'm a FullStack web developer with several years of experience in both backend and frontend projects. I'm currently expanding my expertise in artificial intelligence and data science. For over a year, I've been working remotely for a company, honing strong teamwork skills and fostering effective collaboration with my colleagues.
 
