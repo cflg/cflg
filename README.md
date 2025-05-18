@@ -1,9 +1,5 @@
 
-## 👋 Hello! I'm a FullStack web developer with several years of experience in both backend and frontend projects. I'm currently expanding my expertise in artificial intelligence and data science. For over a year, I've been working remotely for a company, honing strong teamwork skills and fostering effective collaboration with my colleagues.
-
-## **About:**
-
-I’m a developer with experience building systems from the ground up, focusing on Oracle databases, PL/SQL, and scalable backend solutions. I specialize in turning complex processes into simple, efficient solutions by integrating data science, automation, and a strong results-driven mindset. I'm driven by a constant curiosity to learn and a passion for creating technology that truly works.
+## 👋 Hello! I’m a developer with experience building systems from the ground up, focusing on Oracle databases, PL/SQL, and scalable backend solutions. I specialize in turning complex processes into simple, efficient solutions by integrating data science, automation, and a strong results-driven mindset. I'm driven by a constant curiosity to learn and a passion for creating technology that truly works.
 
 ## **My Skills:**
 ### **Languages:**
