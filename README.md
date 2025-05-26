@@ -52,8 +52,6 @@
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)](https://slack.com/)
 
-### I am currently pursuing a 3-Year Technical Degree in Artificial Intelligence and Data Science.
-
 <br>
 <div align="center">
 <img src="https://www.future-processing.com/blog/wp-content/uploads/2023/02/Importance-of-data-science.png" align="center" style="width: 100%" />
